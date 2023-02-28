@@ -3,7 +3,7 @@ package com.vaermi.gamerandomizer;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class GameRandomizerController {
     @FXML
     private Label welcomeText;
 
