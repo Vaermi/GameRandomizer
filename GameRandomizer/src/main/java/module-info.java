@@ -7,4 +7,6 @@ module com.vaermi.gamerandomizer {
 
     opens com.vaermi.gamerandomizer to javafx.fxml;
     exports com.vaermi.gamerandomizer;
+    exports model;
+    opens model to javafx.fxml;
 }
